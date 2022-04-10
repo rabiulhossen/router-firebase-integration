@@ -1,10 +1,12 @@
 nav a:hover{
-    color: rgb(156, 205, 92);
+    color: rgb(243, 229, 40);
+    
    
 }
 nav a{
-    color: indianred;
+    color: rgb(245, 59, 90);
     margin-right: 14px;
     font-size: 25px;
     text-decoration: wavy;
+    background-color: rgb(11, 11, 31);
 }
